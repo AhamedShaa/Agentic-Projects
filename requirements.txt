@@ -1,0 +1,6 @@
+langchain-community
+langchain_google_genai
+pypdf
+langchain_huggingface
+unstructured
+unstructured[pdf]
